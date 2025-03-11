@@ -1,9 +1,11 @@
 โปรแกรมสำหรับอาจารย์บันทึกข้อมูลนักศึกษา
+
 ชื่อ: นายธนกร ทิพเนตร
 รหัสนักศึกษา: 673450191-2
 
 Class Diagram
-![image](https://github.com/user-attachments/assets/a1f5d48c-c2cd-4aac-b3d3-2c17984c154d)
+![Untitled diagram-2025-03-11-153903](https://github.com/user-attachments/assets/2a83f43b-367d-4bf3-a4c4-98f142b6f3ba)
+
 
 
 
