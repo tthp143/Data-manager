@@ -1,0 +1,49 @@
+D:\cs\C#\quiz\quiz\bin\Debug\net8.0-windows\quiz.exe
+D:\cs\C#\quiz\quiz\bin\Debug\net8.0-windows\quiz.deps.json
+D:\cs\C#\quiz\quiz\bin\Debug\net8.0-windows\quiz.runtimeconfig.json
+D:\cs\C#\quiz\quiz\bin\Debug\net8.0-windows\quiz.dll
+D:\cs\C#\quiz\quiz\bin\Debug\net8.0-windows\quiz.pdb
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.Form1.resources
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.csproj.GenerateResource.cache
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.AssemblyInfoInputs.cache
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.AssemblyInfo.cs
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.csproj.CoreCompileInputs.cache
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.dll
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\refint\quiz.dll
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.pdb
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.genruntimeconfig.cache
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\ref\quiz.dll
+D:\cs\C#\quiz\quiz\obj\Debug\net8.0-windows\quiz.Form2.resources
+E:\New Folder(1)\quiz-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.exe
+E:\New Folder(1)\quiz-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.deps.json
+E:\New Folder(1)\quiz-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.runtimeconfig.json
+E:\New Folder(1)\quiz-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.dll
+E:\New Folder(1)\quiz-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.pdb
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.Form1.resources
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.csproj.GenerateResource.cache
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.AssemblyInfoInputs.cache
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.AssemblyInfo.cs
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.csproj.CoreCompileInputs.cache
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.dll
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\refint\quiz.dll
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.pdb
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.genruntimeconfig.cache
+E:\New Folder(1)\quiz-main\quiz-main\quiz\obj\Debug\net8.0-windows\ref\quiz.dll
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.exe
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.deps.json
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.runtimeconfig.json
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.dll
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\bin\Debug\net8.0-windows\quiz.pdb
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.Form1.resources
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.csproj.GenerateResource.cache
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.AssemblyInfoInputs.cache
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.AssemblyInfo.cs
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.csproj.CoreCompileInputs.cache
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.dll
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\refint\quiz.dll
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.pdb
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\quiz.genruntimeconfig.cache
+D:\book's oop\thanakon-helloworld-oop-lab\quizFinish-main\quiz-main\quiz\obj\Debug\net8.0-windows\ref\quiz.dll
