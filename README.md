@@ -2,7 +2,9 @@
 ชื่อ: นายธนกร ทิพเนตร
 รหัสนักศึกษา: 673450191-2
 
-Class Diagram[Uploading class-diagram.mermaid…]()
+Class Diagram
+![image](https://github.com/user-attachments/assets/a1f5d48c-c2cd-4aac-b3d3-2c17984c154d)
+
 
 
 
